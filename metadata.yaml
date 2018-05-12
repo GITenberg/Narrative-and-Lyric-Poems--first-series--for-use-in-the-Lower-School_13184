@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13184#Narrative-and-Lyric-Poems--first-series--for-use-in-the-Lower-School
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
