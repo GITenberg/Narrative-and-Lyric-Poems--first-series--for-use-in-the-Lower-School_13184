@@ -1,0 +1,38 @@
+_repo: Narrative-and-Lyric-Poems--first-series--for-use-in-the-Lower-School_13184
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Stevenson, O. J.
+    alias: Stevenson, Orlando John
+    birthdate: 1869
+    deathdate: 1950
+    gutenberg_agent_id: '4889'
+    url: http://www.gutenberg.org/2009/agents/4889
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Readers'
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'American poetry -- 19th century'
+tableOfContents: The Meeting of the Water, by Moore -- Jock o' Hazeldean, by Scott
+  -- Horatius, by Macaulay -- Alice Brand, by Scott -- The Solitary Reaper, by Wordsworth
+  -- The Island of the Scots, by Aytoun -- Dickens in Camp, by Harte -- A Musical
+  Instrument, by Mrs. Browning -- Gradatim, by Holland -- The Battle of the Lake Regillus,
+  by Macaulay -- The Vision of Sir Launfal, by Lowell -- The Builders, by Longfellow
+  -- British Freedom, by Wordsworth -- The Courtship of Miles Standish, by Longfellow
+  -- Sohrab and Rustum, by Arnold.
+title: Narrative and Lyric Poems (first series) for use in the Lower School
+url: http://www.gutenberg.org/ebooks/13184
